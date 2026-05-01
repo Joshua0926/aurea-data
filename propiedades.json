@@ -399,4 +399,222 @@
     ],
     "specs": { "cuartos": 3, "baños": 2, "parqueos": 2 }
   }
+  {
+    "id": "casa-11",
+    "nombre": "Lomas de San Jacinto",
+    "tipo": "renta",
+    "precio": "Q8,000 / mes",
+    "descripcionCorta": "Casa de 6 ambientes sobre calle principal en Zona 10 de Mixco, ideal para oficinas o vivienda. Precio negociable.",
+    "descripcionLarga": {
+      "resumen": "Propiedad versátil sobre la calle principal de entrada a Lomas de San Jacinto, con excelente visibilidad y acceso. Ubicada fuera de garita pero a la par de ella, con fácil salida a Zona 10. Ideal para uso como oficinas a puerta cerrada, consultorios o residencia. A pasos de Súper 24 y Torre Express.",
+      "detalles": [
+        "6 ambientes",
+        "3.5 baños",
+        "1 parqueo techado (con opción de habilitar otro)",
+        "Posibilidad de parqueo adicional sobre la calle",
+        "Calentador general",
+        "Sobre calle principal de ingreso a San Jacinto",
+        "A la par de garita — fuera de condominio",
+        "Ideal para oficinas, consultorios o vivienda",
+        "Cercano a Súper 24 y Torre Express",
+        "Precio negociable"
+      ],
+      "ubicacion": "Entrada a Lomas de San Jacinto, Zona 10 de Mixco. Sobre calle principal, a la par de garita de ingreso al residencial."
+    },
+    "ubicacion": "Zona 10 de Mixco, entrada Lomas de San Jacinto",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/7.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/8.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LOMAS%20DE%20SAN%20JACINTO/9.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 6,
+      "baños": 3,
+      "parqueos": 1
+    }
+  },
+  {
+    "id": "casa-12",
+    "nombre": "Villa Almoretto",
+    "tipo": "renta",
+    "precio": "Q4,700 / mes",
+    "descripcionCorta": "Apartamento nivel 3 con línea blanca completa, cortinas black out y mantenimiento incluido al Km 14 carretera a El Salvador.",
+    "descripcionLarga": {
+      "resumen": "Apartamento listo para habitar en Villa Almoretto, sobre la carretera a El Salvador. Incluye línea blanca completa recién instalada, cortinas black out en todas las habitaciones y dos controles de portón. El precio ya contempla IVA y cuota de mantenimiento, sin costos ocultos.",
+      "detalles": [
+        "Nivel 3",
+        "Sala — comedor",
+        "Cocina con gabinetes",
+        "2 habitaciones con closet",
+        "1 baño completo",
+        "2 parqueos contiguos (uno a la par del otro)",
+        "Línea blanca incluida: lavadora-secadora, refrigeradora, estufa y calentador general",
+        "Cortinas black out incluidas",
+        "2 controles para portón",
+        "Precio incluye IVA y mantenimiento"
+      ],
+      "ubicacion": "Km 14 Carretera a El Salvador, Villa Almoretto."
+    },
+    "ubicacion": "Km 14 Carretera a El Salvador",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/7.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/8.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLA%20ALMORETTO/9.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 2,
+      "baños": 1,
+      "parqueos": 2
+    }
+  },
+  {
+    "id": "casa-13",
+    "nombre": "Edificio Alandra",
+    "tipo": "renta",
+    "precio": "US$950 / mes",
+    "descripcionCorta": "Apartamento nivel bajo en Zona 10 con terraza, 3 parqueos, bodega y línea blanca completa. Mantenimiento incluido.",
+    "descripcionLarga": {
+      "resumen": "Amplio apartamento en nivel bajo del Edificio Alandra, uno de los proyectos más completos de la Zona 10. Cuenta con terraza privada, bodega, 3 parqueos y una lista de extras que hacen la vida diaria más cómoda desde el primer día. El mantenimiento cubre agua, extracción de basura y limpieza de áreas comunes.",
+      "detalles": [
+        "Nivel bajo",
+        "Sala — comedor",
+        "Cocina con desayunador, gabinetes y línea blanca",
+        "Área de lavandería con lavadora-secadora y pila",
+        "Baño de visitas",
+        "Clóset de blancos",
+        "2 habitaciones cada una con clóset y baño",
+        "Terraza privada",
+        "3 parqueos",
+        "1 bodega",
+        "Extractor de olores",
+        "Calentador eléctrico",
+        "Cortinas tipo roller en todo el apartamento",
+        "2 controles de ingreso al edificio",
+        "Mantenimiento incluye: agua, extracción de basura y limpieza de áreas comunes",
+        "Salón social y parqueo de visitas en el edificio",
+        "No se aceptan mascotas",
+        "Precio incluye IVA y mantenimiento — pago obligatorio"
+      ],
+      "ubicacion": "Edificio Alandra, Zona 10, Ciudad de Guatemala."
+    },
+    "ubicacion": "Zona 10, Ciudad de Guatemala",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/7.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/8.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/9.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 2,
+      "baños": 3,
+      "parqueos": 3
+    }
+  },
+  {
+    "id": "casa-14",
+    "nombre": "Edificio Menorca",
+    "tipo": "renta",
+    "precio": "US$800 / mes",
+    "descripcionCorta": "Apartamento de 50 m² con balcón, AC en dormitorio, línea blanca y amenidades en Zona 15 VH1. No mascotas.",
+    "descripcionLarga": {
+      "resumen": "Apartamento compacto y bien equipado en Edificio Menorca, Zona 15 VH1. Planta funcional con balcón, aire acondicionado en el dormitorio y línea blanca incluida. Acceso a gimnasio, salón social y terraza con vista panorámica. Precio incluye mantenimiento.",
+      "detalles": [
+        "50 m²",
+        "Sala | Comedor | Cocina | Lavandería",
+        "1 dormitorio con aire acondicionado",
+        "Balcón",
+        "1 baño",
+        "1 parqueo",
+        "Línea blanca incluida",
+        "No se aceptan mascotas",
+        "Precio incluye mantenimiento",
+        "Amenidades:",
+        "Gym",
+        "Salón social",
+        "Terraza con vista"
+      ],
+      "ubicacion": "Edificio Menorca, Zona 15 VH1, Ciudad de Guatemala."
+    },
+    "ubicacion": "Zona 15 VH1, Ciudad de Guatemala",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20MENORCA/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20MENORCA/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20MENORCA/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20MENORCA/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20MENORCA/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20MENORCA/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20MENORCA/7.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 1,
+      "baños": 1,
+      "parqueos": 1
+    }
+  },
+  {
+    "id": "casa-15",
+    "nombre": "Edificio Neo",
+    "tipo": "venta",
+    "precio": "US$425,000",
+    "descripcionCorta": "128 m² de construcción más terraza de 60 m² en Zona 10, con sala familiar, 3 habitaciones, servicio y 3 parqueos.",
+    "descripcionLarga": {
+      "resumen": "Apartamento de gran escala en el 4° nivel del Edificio Neo, Zona 10. Con 128 m² de construcción más una terraza privada de 60 m², ofrece ambientes generosos, sala familiar independiente y dormitorio de servicio. Tres parqueos incluidos y acceso a amenidades de primer nivel hacen de esta una de las mejores opciones de la zona.",
+      "detalles": [
+        "4° nivel",
+        "128 m² de construcción",
+        "60 m² de terraza privada",
+        "Sala",
+        "Comedor",
+        "Cocina con gabinetes",
+        "Área de lavandería",
+        "Sala familiar",
+        "Habitación principal con baño privado y walk-in-closet",
+        "2 habitaciones secundarias con baño compartido",
+        "Dormitorio de servicio con baño",
+        "3 parqueos (2 en tándem + 1 individual)",
+        "Amenidades:",
+        "Gimnasio equipado",
+        "Salones de eventos",
+        "Lounge",
+        "Juegos infantiles",
+        "Jardines",
+        "Precio + impuestos"
+      ],
+      "ubicacion": "Edificio Neo, Zona 10, Ciudad de Guatemala."
+    },
+    "ubicacion": "Zona 10, Ciudad de Guatemala",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/7.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/8.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20NEO/9.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 4,
+      "baños": 4,
+      "parqueos": 3
+    }
+  }
 ]
