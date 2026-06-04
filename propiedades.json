@@ -616,5 +616,102 @@
       "baños": 4,
       "parqueos": 3
     }
+  },
+  {
+    "id": "casa-16",
+    "nombre": "Edificio Caledonia",
+    "tipo": "venta",
+    "precio": "US$180,000",
+    "descripcionCorta": "Apartamento de 100 m² con 3 dormitorios, balcón y 2 parqueos individuales en Vista Hermosa IV, Zona 16. A pasos del CC Cascata.",
+    "descripcionLarga": {
+      "resumen": "Apartamento moderno en Edificio Caledonia, ubicado en uno de los sectores más consolidados de Vista Hermosa IV. A pocos metros del centro comercial Cascata, con fácil acceso a servicios, restaurantes y vías principales. Tres dormitorios, balcones en sala y habitación principal, y dos parqueos individuales externos hacen de esta unidad una opción sobresaliente en la zona.",
+      "detalles": [
+        "100 m² de apartamento",
+        "2 parqueos individuales externos (25 m² c/u)",
+        "Sala con balcón",
+        "Comedor",
+        "Cocina",
+        "3 dormitorios",
+        "Dormitorio principal con baño privado y balcón",
+        "2 baños",
+        "Área de lavandería",
+        "Mantenimiento: Q1,450 / mes",
+        "IUSI trimestral: Q1,215",
+        "Amenidades:",
+        "Gimnasio",
+        "Salón social",
+        "Cuarto de juegos",
+        "Jardín con área infantil y de mascotas",
+        "Parqueo de visitas",
+        "Precio + impuestos"
+      ],
+      "ubicacion": "Edificio Caledonia, Vista Hermosa IV, Zona 16, Ciudad de Guatemala. A pocos metros del Centro Comercial Cascata."
+    },
+    "ubicacion": "Vista Hermosa IV, Zona 16",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/7.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/8.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 3,
+      "baños": 2,
+      "parqueos": 2
+    }
+  },
+  {
+    "id": "casa-17",
+    "nombre": "Condominio Santa Fe",
+    "tipo": "venta",
+    "precio": "US$325,000",
+    "descripcionCorta": "Casa de 306 m² en 3 niveles con parqueo para 3 vehículos, jardín, línea blanca y pérgolas con vistas en San Cristóbal. Precio negociable.",
+    "descripcionLarga": {
+      "resumen": "Casa de amplia escala en Condominio Santa Fe, Sector A-1, con distribución inteligente en tres niveles y acabados que incluyen línea blanca completa, cisterna de 8,000 litros y cortinas black out. Atrás de Walmart y Academia Europea, con acceso rápido a servicios y vías principales de San Cristóbal. Precio negociable.",
+      "detalles": [
+        "306 m² de construcción",
+        "Terreno 9.5 x 18 mts",
+        "3 niveles",
+        "Nivel 1: Parqueo para 3 vehículos, sala, comedor, cocina abierta con gabinetes, jardín, área de lavandería, dormitorio de servicio con baño completo y baño de visitas",
+        "Nivel 2: Sala familiar, habitación principal con walk-in-closet, balcón y amplio baño, 2 habitaciones secundarias con baño completo",
+        "Nivel 3: 2 pérgolas con piso y vistas panorámicas",
+        "Extras incluidos:",
+        "Línea blanca: refrigeradora, estufa, lavaplatos, calentador general y filtro de agua",
+        "Cortinas con black out",
+        "Bomba sumergible",
+        "Cisterna de 8,000 litros",
+        "Amenidades del condominio:",
+        "Área social con pérgola",
+        "Juegos infantiles",
+        "IUSI trimestral: Q2,400",
+        "Mantenimiento: Q1,050 / mes",
+        "Precio negociable + impuestos"
+      ],
+      "ubicacion": "Condominio Santa Fe, Sector A-1, San Cristóbal. Atrás de Walmart y Academia Europea."
+    },
+    "ubicacion": "Condominio Santa Fe, San Cristóbal",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/7.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/8.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/9.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/10.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/11.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CONDOMINIO%20SANTA%20FE/12.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 4,
+      "baños": 5,
+      "parqueos": 3
+    }
   }
 ]
