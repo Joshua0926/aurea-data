@@ -713,5 +713,55 @@
       "baños": 5,
       "parqueos": 3
     }
+  },
+  {
+    "id": "casa-18",
+    "nombre": "Mirador de San Cristóbal 2",
+    "tipo": "venta",
+    "precio": "Q1,675,000",
+    "descripcionCorta": "Casa de 2 niveles en residencial privado con garita, 4 parqueos, 3 habitaciones y patio techado en Zona 8 de Mixco. Libre de gravámenes.",
+    "descripcionLarga": {
+      "resumen": "Casa familiar en residencial privado Mirador de San Cristóbal 2, con seguridad las 24 horas y acceso controlado. 134 m² de construcción distribuidos en dos niveles con espacios generosos, patio techado, área de lavandería cubierta y sala familiar. La habitación principal cuenta con balcón y baño privado. Libre de gravámenes y con cuota de mantenimiento que incluye seguridad, agua y extracción de basura.",
+      "detalles": [
+        "Terreno: 7 x 19.21 mts",
+        "Construcción: 134.72 m²",
+        "2 niveles",
+        "13 años de construcción",
+        "4 parqueos (2 techados)",
+        "Sala y comedor",
+        "Cocina cerrada",
+        "Patio techado",
+        "Área de lavandería techada",
+        "Área de servicio para empleada",
+        "Baño de visitas",
+        "Sala familiar",
+        "3 amplias habitaciones",
+        "Habitación principal con balcón y baño privado",
+        "Baño completo compartido para habitaciones secundarias",
+        "Residencial con garita de seguridad, parqueo de visitas y áreas verdes",
+        "71 casas en total en el residencial",
+        "Libre de gravámenes",
+        "Cuota de mantenimiento: Q570 / mes (incluye seguridad, agua y extracción de basura)",
+        "IUSI trimestral: Q1,662.20",
+        "Casa habitada — visitas con 48 horas de antelación",
+        "Precio + impuestos de ley"
+      ],
+      "ubicacion": "Mirador de San Cristóbal 2, Zona 8 de Mixco, San Cristóbal."
+    },
+    "ubicacion": "Zona 8 de Mixco, San Cristóbal",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/6.jpeg?raw=true"
+      
+    ],
+    "specs": {
+      "cuartos": 3,
+      "baños": 3,
+      "parqueos": 4
+    }
   }
 ]
