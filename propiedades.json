@@ -1,5 +1,69 @@
 [
   {
+    "id": "casa-19",
+    "nombre": "Condominio Cibeles",
+    "tipo": "venta",
+    "precio": "US$275,000",
+    "descripcionCorta": "Casa 3F en Ciudad San Cristóbal con pérgola de 40 m², AC en 3 habitaciones, cisterna de 6,000 litros y extras de valor incluidos. IUSI y mantenimiento muy bajos.",
+    "descripcionLarga": {
+      "resumen": "Casa de dos niveles en Condominio Cibeles, Ciudad San Cristóbal, con una distribución inteligente y una lista de extras que la distinguen del mercado. Destaca por su espectacular pérgola de 40 m², aire acondicionado en las tres habitaciones, cisterna de 6,000 litros y calentador de 40 galones. IUSI trimestral de solo Q103 y cuota de mantenimiento de Q175.",
+      "detalles": [
+        "Nivel 1:",
+        "Parqueo para 2 vehículos (Carport)",
+        "Sala y comedor independientes",
+        "Cocina",
+        "Espacio versátil: sala de visitas / eventos / gym",
+        "Área de lavandería / patio de servicio",
+        "Dormitorio de servicio con closet y baño completo",
+        "Baño de visitas",
+        "Bodega bajo gradas",
+        "Nivel 2:",
+        "Sala familiar",
+        "Habitación principal con walk-in-closet, AC y baño completo",
+        "2 habitaciones secundarias con AC y closet",
+        "Baño secundario",
+        "2 closets de blancos",
+        "Pérgola privada de 40 m²",
+        "Extras incluidos:",
+        "Aire acondicionado instalado en las 3 habitaciones",
+        "Cortinas en ambientes principales",
+        "Filtro de agua integrado",
+        "Calentador eléctrico de 40 GL",
+        "Bomba sumergible",
+        "Cisterna de 6,000 litros",
+        "Módulo de gradas de madera",
+        "Amenidades:",
+        "Seguridad privada e instalaciones del condominio",
+        "IUSI trimestral: Q103.07",
+        "Mantenimiento: Q175.00 / mes",
+        "Precio + impuestos de ley"
+      ],
+      "ubicacion": "Condominio Cibeles, Casa 3F, Ciudad San Cristóbal, Zona 8 de Mixco."
+    },
+    "ubicacion": "Ciudad San Cristóbal, Zona 8 de Mixco",
+    "imagenes": [
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/1.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/2.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/3.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/4.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/5.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/6.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/7.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/8.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/9.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/10.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/11.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/12.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/13.jpeg?raw=true",
+      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/CIBELES/14.jpeg?raw=true"
+    ],
+    "specs": {
+      "cuartos": 3,
+      "baños": 4,
+      "parqueos": 2
+    }
+  },
+  {
     "id": "casa-1",
     "nombre": "Lo De Ubieto",
     "tipo": "ambos",
@@ -54,49 +118,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/SAN%20MIGUEL%20BUENAVISTA/13.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/SAN%20MIGUEL%20BUENAVISTA/14.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 5, "baños": 7, "parqueos": 3 }
-  },
-  {
-    "id": "casa-2",
-    "nombre": "Torre Once",
-    "tipo": "renta",
-    "precio": "Q7,000 / mes",
-    "descripcionCorta": "Apartamento en nivel alto con 75 m², 2 habitaciones y acceso a amenidades de primer nivel en Zona 11.",
-    "descripcionLarga": {
-      "resumen": "Unidad residencial moderna en Torre Once, uno de los proyectos verticales más reconocidos de la Zona 11. Diseño limpio, buena luz y amenidades completas para quienes valoran la comodidad urbana sin complicaciones.",
-      "detalles": [
-        "Nivel alto. Aprox. 75 m²",
-        "Sala",
-        "Comedor",
-        "Cocina equipada",
-        "Área de lavandería",
-        "2 habitaciones",
-        "2 baños",
-        "2 parqueos",
-        "Amenidades:",
-        "Lounge",
-        "Fire Pit",
-        "Jardín de mascotas",
-        "Juegos infantiles",
-        "Gimnasio",
-        "Piscina",
-        "Coworking"
-      ],
-      "ubicacion": "Zona 11, Ciudad de Guatemala."
-    },
-    "ubicacion": "Zona 11, Ciudad de Guatemala",
-    "imagenes": [
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/1.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/2.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/3.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/4.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/5.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/6.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/7.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/8.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/TORRE%20ONCE/9.jpeg?raw=true"
-    ],
-    "specs": { "cuartos": 2, "baños": 2, "parqueos": 2 }
+    "specs": {
+      "cuartos": 5,
+      "baños": 7,
+      "parqueos": 3
+    }
   },
   {
     "id": "casa-3",
@@ -141,7 +167,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLAS%20DEL%20CAMPO/12.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/VILLAS%20DEL%20CAMPO/13.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 4, "baños": 4, "parqueos": 2 }
+    "specs": {
+      "cuartos": 4,
+      "baños": 4,
+      "parqueos": 2
+    }
   },
   {
     "id": "casa-4",
@@ -178,42 +208,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LA%20HERRADURA/8.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LA%20HERRADURA/9.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 3, "baños": 3, "parqueos": 4 }
-  },
-  {
-    "id": "casa-5",
-    "nombre": "Vertical El Zapote",
-    "tipo": "renta",
-    "precio": "Q4,750 / mes",
-    "descripcionCorta": "Apartamento de 39 m² en nivel alto con balcón y 1 parqueo en la Zona 2.",
-    "descripcionLarga": {
-      "resumen": "Unidad compacta y bien diseñada en edificio boutique de la Zona 2, pensada para quienes buscan eficiencia sin renunciar al confort. Nivel alto con balcón y buenas vistas en una ubicación céntrica e histórica.",
-      "detalles": [
-        "Nivel alto — 39 m²",
-        "1 dormitorio",
-        "1 baño",
-        "Sala | Comedor | Cocina",
-        "Área de lavandería",
-        "Balcón",
-        "1 parqueo"
-      ],
-      "ubicacion": "Zona 2, Ciudad de Guatemala."
-    },
-    "ubicacion": "Zona 2, Ciudad de Guatemala",
-    "imagenes": [
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/1.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/2.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/3.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/4.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/5.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/6.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/7.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/8.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/9.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/10.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EL%20ZAPOTE/11.jpeg?raw=true"
-    ],
-    "specs": { "cuartos": 1, "baños": 1, "parqueos": 1 }
+    "specs": {
+      "cuartos": 3,
+      "baños": 3,
+      "parqueos": 4
+    }
   },
   {
     "id": "casa-6",
@@ -246,7 +245,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/ZONA%20PRADERA/8.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/ZONA%20PRADERA/9.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 0, "baños": 1, "parqueos": 2 }
+    "specs": {
+      "cuartos": 0,
+      "baños": 1,
+      "parqueos": 2
+    }
   },
   {
     "id": "casa-7",
@@ -283,7 +286,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20VIRO/6.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20VIRO/7.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 3, "baños": 2, "parqueos": 2 }
+    "specs": {
+      "cuartos": 3,
+      "baños": 2,
+      "parqueos": 2
+    }
   },
   {
     "id": "casa-8",
@@ -312,7 +319,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/FINCA%20ZACAPA/5.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/FINCA%20ZACAPA/6.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 0, "baños": 0, "parqueos": 0 }
+    "specs": {
+      "cuartos": 0,
+      "baños": 0,
+      "parqueos": 0
+    }
   },
   {
     "id": "casa-9",
@@ -355,7 +366,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LARES%2016/8.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/LARES%2016/9.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 2, "baños": 1, "parqueos": 1 }
+    "specs": {
+      "cuartos": 2,
+      "baños": 1,
+      "parqueos": 1
+    }
   },
   {
     "id": "casa-10",
@@ -397,7 +412,11 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/ALTAVISTA%20LOS%20ALAMOS/10.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/ALTAVISTA%20LOS%20ALAMOS/11.jpeg?raw=true"
     ],
-    "specs": { "cuartos": 3, "baños": 2, "parqueos": 2 }
+    "specs": {
+      "cuartos": 3,
+      "baños": 2,
+      "parqueos": 2
+    }
   },
   {
     "id": "casa-11",
@@ -477,54 +496,6 @@
       "cuartos": 2,
       "baños": 1,
       "parqueos": 2
-    }
-  },
-  {
-    "id": "casa-13",
-    "nombre": "Edificio Alandra",
-    "tipo": "renta",
-    "precio": "US$950 / mes",
-    "descripcionCorta": "Apartamento nivel bajo en Zona 10 con terraza, 3 parqueos, bodega y línea blanca completa. Mantenimiento incluido.",
-    "descripcionLarga": {
-      "resumen": "Amplio apartamento en nivel bajo del Edificio Alandra, uno de los proyectos más completos de la Zona 10. Cuenta con terraza privada, bodega, 3 parqueos y una lista de extras que hacen la vida diaria más cómoda desde el primer día. El mantenimiento cubre agua, extracción de basura y limpieza de áreas comunes.",
-      "detalles": [
-        "Nivel bajo",
-        "Sala — comedor",
-        "Cocina con desayunador, gabinetes y línea blanca",
-        "Área de lavandería con lavadora-secadora y pila",
-        "Baño de visitas",
-        "Clóset de blancos",
-        "2 habitaciones cada una con clóset y baño",
-        "Terraza privada",
-        "3 parqueos",
-        "1 bodega",
-        "Extractor de olores",
-        "Calentador eléctrico",
-        "Cortinas tipo roller en todo el apartamento",
-        "2 controles de ingreso al edificio",
-        "Mantenimiento incluye: agua, extracción de basura y limpieza de áreas comunes",
-        "Salón social y parqueo de visitas en el edificio",
-        "No se aceptan mascotas",
-        "Precio incluye IVA y mantenimiento — pago obligatorio"
-      ],
-      "ubicacion": "Edificio Alandra, Zona 10, Ciudad de Guatemala."
-    },
-    "ubicacion": "Zona 10, Ciudad de Guatemala",
-    "imagenes": [
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/1.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/2.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/3.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/4.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/5.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/6.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/7.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/8.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20ALANDRA/9.jpeg?raw=true"
-    ],
-    "specs": {
-      "cuartos": 2,
-      "baños": 3,
-      "parqueos": 3
     }
   },
   {
@@ -615,53 +586,6 @@
       "cuartos": 4,
       "baños": 4,
       "parqueos": 3
-    }
-  },
-  {
-    "id": "casa-16",
-    "nombre": "Edificio Caledonia",
-    "tipo": "venta",
-    "precio": "US$180,000",
-    "descripcionCorta": "Apartamento de 100 m² con 3 dormitorios, balcón y 2 parqueos individuales en Vista Hermosa IV, Zona 16. A pasos del CC Cascata.",
-    "descripcionLarga": {
-      "resumen": "Apartamento moderno en Edificio Caledonia, ubicado en uno de los sectores más consolidados de Vista Hermosa IV. A pocos metros del centro comercial Cascata, con fácil acceso a servicios, restaurantes y vías principales. Tres dormitorios, balcones en sala y habitación principal, y dos parqueos individuales externos hacen de esta unidad una opción sobresaliente en la zona.",
-      "detalles": [
-        "100 m² de apartamento",
-        "2 parqueos individuales externos (25 m² c/u)",
-        "Sala con balcón",
-        "Comedor",
-        "Cocina",
-        "3 dormitorios",
-        "Dormitorio principal con baño privado y balcón",
-        "2 baños",
-        "Área de lavandería",
-        "Mantenimiento: Q1,450 / mes",
-        "IUSI trimestral: Q1,215",
-        "Amenidades:",
-        "Gimnasio",
-        "Salón social",
-        "Cuarto de juegos",
-        "Jardín con área infantil y de mascotas",
-        "Parqueo de visitas",
-        "Precio + impuestos"
-      ],
-      "ubicacion": "Edificio Caledonia, Vista Hermosa IV, Zona 16, Ciudad de Guatemala. A pocos metros del Centro Comercial Cascata."
-    },
-    "ubicacion": "Vista Hermosa IV, Zona 16",
-    "imagenes": [
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/1.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/2.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/3.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/4.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/5.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/6.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/7.jpeg?raw=true",
-      "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/EDIFICIO%20CALEDONIA/8.jpeg?raw=true"
-    ],
-    "specs": {
-      "cuartos": 3,
-      "baños": 2,
-      "parqueos": 2
     }
   },
   {
@@ -756,7 +680,6 @@
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/4.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/5.jpeg?raw=true",
       "https://github.com/Joshua0926/aurea-data/blob/main/img/propiedades/MIRADOR%20DE%20SAN%20CRISTOBAL%202/6.jpeg?raw=true"
-      
     ],
     "specs": {
       "cuartos": 3,
